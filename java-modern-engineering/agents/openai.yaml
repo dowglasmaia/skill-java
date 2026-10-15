@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java Modern Engineering"
+  short_description: "Engenharia Java 17, 21 e 25 pragmática e compatível"
+  default_prompt: "Use $java-modern-engineering para implementar ou revisar esta alteração Java, preservando a versão, os contratos e a arquitetura do projeto."
